@@ -1,0 +1,44 @@
+# Ignore All
+*
+
+# config files
+!.python-version
+!.gitignore
+!pyproject.toml
+!.vscode
+!.vscode/**
+!package.json
+!.textlintrc
+
+# meta
+!README.md
+
+# working space
+!llm_out
+!llm_out/**
+!marker_out
+!marker_out/**
+!sample
+!sample/**
+!src
+!src/**
+!lib
+!lib/**
+!textlint_out
+!textlint_out/**
+!diff
+!diff/**
+!diff.sh
+
+# ↓ uv auto managing space
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv

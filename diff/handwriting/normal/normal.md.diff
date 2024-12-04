@@ -1,0 +1,20 @@
+diff --git a/tmp/tmp.1qdIiKy3Lp b/tmp/tmp.rEH7h4ahNb
+index 7ea67e1..b4d3afe 100644
+--- a/tmp/tmp.1qdIiKy3Lp
++++ b/tmp/tmp.rEH7h4ahNb
+@@ -1,7 +1,10 @@
+-小さくてたの リステ.
++```markdown
++小さくてたのしいリスト。
+ 
+- = 0 = 0 = 0 = 0 大さくて糸田・文字・
+-e2 = cos 0 + i sin 0 小さくて和い文字 20 = cos & + = sin O
+-大きくて太…文字 000 = COSO + isino
++\( e^{i\theta} = \cos \theta + i \sin \theta \)
+ 
++小さくて和やかい文字 \( 2\theta = \cos \theta + i \sin \theta \)
+ 
++大きくて太い文字 \( 0 = \cos \theta + i \sin \theta \)
++
++```
+\ No newline at end of file
